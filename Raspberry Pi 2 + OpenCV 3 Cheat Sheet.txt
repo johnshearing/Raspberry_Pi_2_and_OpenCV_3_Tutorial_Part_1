@@ -2,7 +2,7 @@
 
 This cheat sheet is intended to be used in conjunction with the following video:
 
-[](https://www.youtube.com/watch?v=6j-Wy9j0TCs)
+[Raspberry Pi 2 and OpenCV 3 Tutorial Part 1](https://www.youtube.com/watch?v=6j-Wy9j0TCs)
 
 the following other documents may also be helpful:
 readme.txt
